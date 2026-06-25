@@ -2,7 +2,6 @@
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
-import mailObfuscation from "astro-mail-obfuscation";
 import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
